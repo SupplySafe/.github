@@ -60,7 +60,8 @@ Any additional information goes here
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@techyNonso](https://www.github.com/techyNonso)
+- [@0xefrain](https://www.github.com/0xefrain)
 
 
 ## Contributing

@@ -60,7 +60,7 @@ Any additional information goes here
 
 ## Authors
 
-- [@techyNonso](https://www.github.com/techyNonso)
+
 - [@0xefrain](https://www.github.com/0xefrain)
 
 
